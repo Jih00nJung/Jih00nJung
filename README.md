@@ -18,19 +18,3 @@
 <div>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-<br>
-
-## Contact
-<div>
-  <a href="mailto:wjdwlgns11q@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a></div>
-<!--   <img alt="" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</div> 
-
-<br>
-
-## Project
--->
-
-
